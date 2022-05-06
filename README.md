@@ -1,5 +1,5 @@
 # 2D-Metroidvania-Game
-CS 4485 Senior Design Spring 2022 Project Source Code
+*CS 4485 Senior Design Spring 2022 Project Source Code*
 
 
 Created by: 2D Unity Game in 3D Space (UTD CS - Team 88)
